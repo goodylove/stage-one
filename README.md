@@ -31,7 +31,7 @@ npm install
 npm start
 
 #API Documentation
-Endpoint URL: GET ""
+Endpoint URL: GET "https://stage-one-g97v.onrender.com/api/classify-number?number=371"
   
 
 
